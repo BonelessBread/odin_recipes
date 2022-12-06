@@ -1,0 +1,35 @@
+.title {
+    background-color: rgb(131, 131, 131);
+    text-align: center;
+    margin-bottom: 10px;
+    padding: 30px;
+}
+
+.links {
+    text-align: center;
+}
+#link1 {
+    color: white;
+    background-color: rgb(255, 179, 179);
+    margin-bottom: 10px;
+    margin-left: auto;
+    padding: 25px;
+}
+
+#link2 {
+    color: white;
+    background-color: rgb(147, 181, 255);
+    margin-bottom: 10px;
+    padding: 25px;
+}
+
+#link3 {
+    color: white;
+    background-color: rgb(97, 76, 59);
+    margin-bottom: 10px;
+    padding: 25px;
+}
+
+#footer {
+    text-align: center;
+}
