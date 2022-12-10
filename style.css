@@ -1,8 +1,17 @@
+.food {
+    position: relative;
+}
+
 .title {
-    background-color: rgb(131, 131, 131);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: clamp(2.5rem, 10 vw + 0.5rem, 6rem);
     text-align: center;
-    margin-bottom: 10px;
-    padding: 30px;
+    line-height: 1;
+    font-weight: 900;
+    text-transform: uppercase;
+    position: relative;
+    z-index: 2;
 }
 
 .links {
@@ -11,6 +20,7 @@
 #link1 {
     color: white;
     background-color: rgb(255, 179, 179);
+    font-size: 17px;
     margin-bottom: 10px;
     margin-left: auto;
     padding: 25px;
@@ -19,6 +29,7 @@
 #link2 {
     color: white;
     background-color: rgb(147, 181, 255);
+    font-size: 17px;
     margin-bottom: 10px;
     padding: 25px;
 }
@@ -26,6 +37,7 @@
 #link3 {
     color: white;
     background-color: rgb(97, 76, 59);
+    font-size: 17px;
     margin-bottom: 10px;
     padding: 25px;
 }
@@ -33,3 +45,4 @@
 #footer {
     text-align: center;
 }
+

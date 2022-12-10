@@ -1,10 +1,14 @@
 .title {
-    color: white;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
     background-color: rgb(255, 179, 179);
     text-align: center;
 }
 
-.photo {
-    text-align: left;
+.image {
+    height: 400px;
+}
+.links {
+    text-align: center;
 }
 
